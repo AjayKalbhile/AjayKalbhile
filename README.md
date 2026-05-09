@@ -6,7 +6,7 @@
 <!-- STEP 2: Profile views + social badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AjayKalbhile&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
+  <a href="https://linkedin.com/in/ajaykalbhile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ajaykalbhile31@gmail.com">
